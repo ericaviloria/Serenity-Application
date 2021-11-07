@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Serenity Application</string>
+
+    <string name="quote1">“No need to hurry. No need to sparkle. No need to be anybody but oneself.”
+—Virginia Woolf</string>
+    <string name="quote2">“Stress is an ignorant state. It believes that everything is an emergency. Nothing is that important.”
+—Natalie Goldberg</string>
+    <string name="quote3">“There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.”
+—Epictetus</string>
+    <string name="quote4">“Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength.”
+—Charles Spurgeon</string>
+    <string name="quote5"> “Your mind will answer most questions if you learn to relax and wait for the answer.”
+—William S. Burroughs</string>
+</resources>
